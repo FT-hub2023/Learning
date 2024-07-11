@@ -8,7 +8,6 @@ public class Manager {
         Scanner sc = new Scanner(System.in);
         ManageService manageService = new ManageService();
 
-        lo:
         while (true) {
             System.out.println("----------欢迎来到学生信息管理系统----------");
             System.out.println("1)添加学生");
@@ -28,12 +27,11 @@ public class Manager {
                     manageService.updateStudent();
                     break;
                 case 4:
-                    //TODO:查看学生
                     manageService.findStudent();
                     break;
                 case 5:
                     System.out.println("感谢您的使用，再见！");
-                    break lo;
+                    System.exit(0);
                 default:
                     System.out.println("输入的数字编号有误！请重新输入！");
                     break;

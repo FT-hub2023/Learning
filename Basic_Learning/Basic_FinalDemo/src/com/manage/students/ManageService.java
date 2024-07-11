@@ -151,9 +151,14 @@ public class ManageService {
     }
 
     public void findStudent() {
-        //TODO:查找学生
-        System.out.println("敬请期待！");
-        System.out.println(students);
+        if (students.size() == 0) {
+            System.out.println("查无信息，请先添加学生信息后重试！");
+        } else {
+            System.out.println("---------------学生信息数据库---------------");
+            for (int i = 0; i < students.size(); i++) {
+                System.out.println(students.get(i));
+            }
+        }
     }
 
 

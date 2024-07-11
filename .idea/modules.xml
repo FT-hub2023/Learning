@@ -2,15 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Advanced_Learning/Advanced_Learning.iml" filepath="$PROJECT_DIR$/Advanced_Learning/Advanced_Learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic_Learning/Basic_Day01/Basic_Day01.iml" filepath="$PROJECT_DIR$/Basic_Learning/Basic_Day01/Basic_Day01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic_Learning/Basic_Day04/Basic_Day04.iml" filepath="$PROJECT_DIR$/Basic_Learning/Basic_Day04/Basic_Day04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic_Learning/Basic_Day05/Basic_Day05.iml" filepath="$PROJECT_DIR$/Basic_Learning/Basic_Day05/Basic_Day05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic_Learning/Basic_Day06/Basic_Day06.iml" filepath="$PROJECT_DIR$/Basic_Learning/Basic_Day06/Basic_Day06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic_Learning/Basic_Day07/Basic_Day07.iml" filepath="$PROJECT_DIR$/Basic_Learning/Basic_Day07/Basic_Day07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic_Learning/Basic_Day08/Basic_Day08.iml" filepath="$PROJECT_DIR$/Basic_Learning/Basic_Day08/Basic_Day08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic_Learning/Basic_Day09/Basic_Day09.iml" filepath="$PROJECT_DIR$/Basic_Learning/Basic_Day09/Basic_Day09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic_Learning/Basic_FinalDemo/Basic_FinalDemo.iml" filepath="$PROJECT_DIR$/Basic_Learning/Basic_FinalDemo/Basic_FinalDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basic_Learning/Basic_Learning.iml" filepath="$PROJECT_DIR$/Basic_Learning/Basic_Learning.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Basic_Learning/Day01/Day01.iml" filepath="$PROJECT_DIR$/Basic_Learning/Day01/Day01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Basic_Learning/Day04/Day04.iml" filepath="$PROJECT_DIR$/Basic_Learning/Day04/Day04.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Basic_Learning/Day05/Day05.iml" filepath="$PROJECT_DIR$/Basic_Learning/Day05/Day05.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Basic_Learning/Day06/Day06.iml" filepath="$PROJECT_DIR$/Basic_Learning/Day06/Day06.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Basic_Learning/Day07/Day07.iml" filepath="$PROJECT_DIR$/Basic_Learning/Day07/Day07.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Basic_Learning/Day08/Day08.iml" filepath="$PROJECT_DIR$/Basic_Learning/Day08/Day08.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Basic_Learning/Day09/Day09.iml" filepath="$PROJECT_DIR$/Basic_Learning/Day09/Day09.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Basic_Learning/FinalExam/FinalExam.iml" filepath="$PROJECT_DIR$/Basic_Learning/FinalExam/FinalExam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Advanced_Learning/Day01/Day01.iml" filepath="$PROJECT_DIR$/Advanced_Learning/Day01/Day01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Advanced_Learning/Day02/Day02.iml" filepath="$PROJECT_DIR$/Advanced_Learning/Day02/Day02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Learning.iml" filepath="$PROJECT_DIR$/Learning.iml" />
     </modules>
   </component>
